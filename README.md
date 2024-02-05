@@ -1,2 +1,2 @@
-# tuple_space_iot_system
-The repository contains the source files of the Tuple Space IoT System project
+# tuple_space_middleware
+Tuple Space Middleware for Distributed Computing is a project for the course at the Warsaw University of Technology.
